@@ -23,9 +23,9 @@ The **Parking Space Counter** is a Streamlit application designed to monitor par
    ```bash
    git clone https://github.com/yourusername/parking-space-counter.git 
    cd parking-space-counter
-##Twilio Setup
+## Twilio Setup
 1.Sign up for a Twilio account.
 2.Get your Account SID and Auth Token from the Twilio Console.
 3.Purchase a Twilio phone number for sending SMS.
-##Contributing
+## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or bugs.
